@@ -1,6 +1,6 @@
 #include <iostream>
 #include <sdt>
-int main()
+int main() 
 {
 setlocale(LC_ALL, "Russia");
 int x, y;
